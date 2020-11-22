@@ -1,0 +1,27 @@
+[
+  {
+    "nama" : "David Liuw",
+    "umur" : 22,
+    "pekerjaan" : "Web Developer",
+    "bekerja" : true,
+    "perusahaan" : {
+        "nama" : "PT. Abase",
+        "lokasi" : "Manado, Sulawesi Utara, Sulawesi, Indonesia"
+      },
+    "hobby" : [
+      "nonton", 
+      "bermain game"
+    ]
+  },
+  {
+    "nama" : "Jonathan Liuw",
+    "umur" : 22,
+    "pekerjaan" : "Mahasiswa",
+    "bekerja" : false,
+    "perusahaan" : null,
+    "hobby" : [
+      "nonton", 
+      "bermain game"
+    ]
+  }
+]
